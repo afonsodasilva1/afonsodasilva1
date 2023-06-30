@@ -10,3 +10,5 @@
 <div align="center">
   <img align="center" width="500px" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=afonsodasilva1&theme=dark&background=0d1117&hide_border=false&border=19335A"/>
 <div/>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=afonsodasilva1&bg_color=000000&color=697a98&line=19335a&point=4675c0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
