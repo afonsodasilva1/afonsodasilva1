@@ -29,3 +29,11 @@
 <a href = "mailto:afonsodasilva0308@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/afonsodasilvavicente/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
+
+<div align="center">
+<br><p align="centre"><b>VISITORS COUNT</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{afonsodasilva1}/count.svg" /></p> 
+<br>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=19335A&height=120&section=footer"/>
