@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=19335A&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=697A89&size=35&center=true&vCenter=true&width=1000&lines=HELLO😊👋🏾,+My+name+is+Afonso+Da+Silva+Vicente;I'm+22+years+old;I'm+from+Angola;I'm+BackEnd+Developer🧑🏾‍💻;Love,+Passion+and+hard+work+makes+difference!;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=697A89&size=35&center=true&vCenter=true&width=1000&lines=HELLO😊👋🏾,+My+name+is+Afonso+Da+Silva+Vicente;I'm+22+years+old;I'm+from+Angola;I'm+a+Back-End+Developer🧑🏾‍💻;Love,+Passion+and+hard+work+makes+difference!;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=afonsodasilva1&show_icons=true&count_private=true&hide_border=true&title_color=4675C0&icon_color=19335A&text_color=fff&bg_color=0d1117" alt="Afonso da Silva github stats" /> 
